@@ -1,0 +1,21 @@
+<html>
+
+<head>
+    <h1>WELCOME TO PHOTO GALLERY</h1>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <br>
+    <br>
+    <div><img src="andaman-and-nicobar-islands.jpg" />
+        <p>The Andaman and Nicobar islands lie far off the eastern coast of India. They belong to the Andaman and Nicobar Islands Territory of India</p>
+    </div>
+    <br>
+    <br>
+    <div><img src="Close-up-of-an-impressive-Bengal-tiger-showing-its-fangs-Kanha-National-Park.webp" />
+        <p>Kanha Tiger Reserve, also known as Kanha–Kisli National Park, is one of the tiger reserves of India and the largest national park of the state of Madhya Pradesh.</p>
+    </div>
+</body>
+
+</html>
